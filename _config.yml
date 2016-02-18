@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.6277103
+color:
+  saturation: 0.9667551
+  brandStrength: 0.5529432
+  lightness: 0.6417831
+  rhythmicContrast: 0.8779972
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Funkensprung
